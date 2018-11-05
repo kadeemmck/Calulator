@@ -1,0 +1,114 @@
+#main{
+
+    padding: 30%;
+    margin-right: 15%;
+    height: 30px;
+    width: 300px;
+}
+
+
+#firstRow{
+    
+}
+
+/* #firstRow{
+   background-color:silver;
+} */
+
+/* 
+#secondRow{
+background-color: silver;
+grid-template-columns: 50px, 50px, 50px;
+grid-auto-rows: 50px,50px,50px;
+
+} */
+
+
+/* #thirdRow{
+background-color: silver;
+
+
+} */
+/* 
+#fourthRow{
+    background-color: silver;
+    justify-content: center;
+    grid-template-columns: 50px, 50px, 50px;
+    grid-auto-rows: 50px,50px,50px; 
+
+    } */
+ 
+
+
+/*  */
+#One{
+    color:orange;
+    
+}
+
+#Two{
+    color: aqua;
+}
+#Three{
+    color:purple;
+}
+
+#Four{
+    color:red;
+}
+#Five{
+    color:goldenrod;
+}
+
+#Six{
+    color:teal;
+}
+
+#Seven{
+    color:forestgreen;
+}
+
+#Eight{
+    color:olive;
+}
+
+#Nine{
+    color:purple;
+}
+
+#Mul{
+    color:black;
+}
+
+#Divide{
+    color:black;
+}
+#Zero{
+    color:hotpink;
+}
+
+#Sub{
+    color:black;
+}
+#Add{
+    color:black;
+}
+
+#Dot{
+    color:black;
+}
+
+.show{
+height:50px;
+width:50px;
+
+}
+
+.btn-primary btn-sm
+
+
+
+
+
+
+
